@@ -23,4 +23,4 @@ An integrated healthcare monitoring system that combines continuous glucose moni
 Instructor: Prof. Adel Ghannam · Teaching Assistant: Hend Osama
 
 ## Files
-- Full project report (PDF) – coming soon
+- [Full project report (PDF)](Logical_Design_for_the_Integration_of_Acetone-Level_Monitoring_with_Continuous_Glucose_Sensors_for_Enhanced_Diabetes_Management_2.pdf)
